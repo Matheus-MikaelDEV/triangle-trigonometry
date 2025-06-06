@@ -43,6 +43,13 @@ Resultado do seno: 0.6
 ---
 
 # 📌 Requisitos
-Java JDK 8 ou superior
 
+Java JDK 8 ou superior
 Terminal ou IDE (como IntelliJ, Eclipse ou VS Code)
+
+# 🛠️ O que aprendi com esse projeto
+
+- Estruturação de pacotes em Java
+- Orientação a objetos
+- Criação de menus interativos com Scanner
+- Aplicação prática de trigonometria em programação
